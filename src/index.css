@@ -1,0 +1,30 @@
+.react_icon {
+  margin-left: 10px;
+}
+
+.react_icon:hover {
+  cursor: pointer;
+}
+
+.inputField_container {
+  padding: 15px !important;
+  background-color: #fff;
+}
+
+.addoptionButton {
+  background-color: green;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.addoptionButton:hover {
+  background-color: darkgreen; /* Change color on hover */
+}

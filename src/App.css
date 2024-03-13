@@ -1,0 +1,32 @@
+.menuDiv {
+  min-height: 100vh;
+  padding-left: 20px;
+  padding-top: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  /* border: 2px solid #000; */
+  margin: 20px;
+  /* background-color: #f8f9fa; */
+  background-color: #fff;
+  box-shadow: 2px 2px 2px lightgray;
+}
+
+.field-item {
+  margin-bottom: 15px;
+  padding: 5px;
+  width: 100%;
+  border: 1px dotted;
+}
+
+.field-item:hover {
+  background-color: gray;
+  cursor: pointer;
+  color: #fff;
+}
+
+.form_container {
+  padding: 50px;
+  border: 1px dotted;
+  border-radius: 10px;
+  margin: 20px;
+}
